@@ -7,6 +7,11 @@ var myName = "Charly";
  * as well as an `age` (number);
  */
 
+ var person = {
+    name: "Charly",
+    age: 28,
+ };
+
 /* Create a variable called `canDrive`,
  * if it should be true if your person object is at least 16 years old
  */
